@@ -3,7 +3,7 @@
   <groupId>si.bass</groupId>
   <artifactId>release-poc</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.2</version>
   <name>release-poc</name>
   <url>http://maven.apache.org</url>
 
